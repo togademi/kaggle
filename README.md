@@ -1,2 +1,3 @@
-# kaggle
-Kaggle competitions. I'm using their projects to practise data science.
+# [Kaggle](https://www.kaggle.com/)
+
+Kaggle competitions.
