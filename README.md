@@ -1,3 +1,3 @@
-# [Kaggle](https://www.kaggle.com/)
+# Kaggle
 
-Kaggle competitions.
+Kaggle competitions of data science: https://www.kaggle.com/
